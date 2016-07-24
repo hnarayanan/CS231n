@@ -78,20 +78,9 @@ class KNearestNeighbor(object):
 
     Input / Output: Same as compute_distances_two_loops
     """
-    num_test = X.shape[0]
-    num_train = self.X_train.shape[0]
-    dists = np.zeros((num_test, num_train))
-    for i in xrange(num_test):
-      #######################################################################
-      # TODO:                                                               #
-      # Compute the l2 distance between the ith test point and all training #
-      # points, and store the result in dists[i, :].                        #
-      #######################################################################
-      pass
-      #######################################################################
-      #                         END OF YOUR CODE                            #
-      #######################################################################
-    return dists
+    # TODO: Can't figure out a single loop that's faster than the
+    # double loop above. So until it's figured out, we reuse that.
+    return self.compute_distances_two_loops(X)
 
   def compute_distances_no_loops(self, X):
     """
@@ -103,22 +92,11 @@ class KNearestNeighbor(object):
     num_test = X.shape[0]
     num_train = self.X_train.shape[0]
     dists = np.zeros((num_test, num_train))
-    #########################################################################
-    # TODO:                                                                 #
-    # Compute the l2 distance between all test points and all training      #
-    # points without using any explicit loops, and store the result in      #
-    # dists.                                                                #
-    #                                                                       #
-    # You should implement this function using only basic array operations; #
-    # in particular you should not use functions from scipy.                #
-    #                                                                       #
-    # HINT: Try to formulate the l2 distance using matrix multiplication    #
-    #       and two broadcast sums.                                         #
-    #########################################################################
-    pass
-    #########################################################################
-    #                         END OF YOUR CODE                              #
-    #########################################################################
+
+    test_square = np.sum(np.square(X), axis=1)
+    train_square = np.sum(np.square(self.X_train), axis=1)
+    product = np.dot(X, self.X_train.T)
+    dists = np.sqrt(test_square.reshape(-1, 1) + train_square - 2*product)
     return dists
 
   def predict_labels(self, dists, k=1):
