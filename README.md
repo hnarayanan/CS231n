@@ -10,5 +10,6 @@ Harish Narayanan, 2016
 
 ## TODO List
 
-- [x] [Lecture 1](https://www.youtube.com/watch?v=F-g0-6_RRUA): Intro to Computer Vision, historical context.
-   - [x] [Slides](Lecture Slides/inter1516_lecture1.pdf)
+- [x] Lecture 1: Intro to Computer Vision, historical context.
+   - [x] [Video](https://www.youtube.com/watch?v=F-g0-6_RRUA)
+   - [x] [Slides](Lecture Slides/winter1516_lecture1.pdf)
