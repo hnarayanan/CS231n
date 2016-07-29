@@ -12,4 +12,4 @@ Harish Narayanan, 2016
 
 - [x] Lecture 1: Intro to Computer Vision, historical context.
    - [x] [Video](https://www.youtube.com/watch?v=F-g0-6_RRUA)
-   - [x] [Slides](Lecture Slides/winter1516_lecture1.pdf)
+   - [x] [Slides](lecture-slides/winter1516_lecture1.pdf)
