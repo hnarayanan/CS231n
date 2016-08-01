@@ -10,11 +10,38 @@ There is nothing to see here.
 
 ## Course Syllabus
 
-- [x] Lecture 1: Intro to Computer Vision, historical context.
-   - [x] [Video](https://www.youtube.com/watch?v=F-g0-6_RRUA)
-   - [x] [Slides](lecture-slides/lecture1.pdf)
-- [x] Lecture 2: Image classification and the data-driven approach,
+- [x] Lecture 1: Intro to computer vision, historical context.
+   - [x] [Video](https://youtu.be/NfnWJUyUJYU)
+   - [ ] [Slides](lecture-slides/lecture1.pdf)
+- [ ] Lecture 2: Image classification and the data-driven approach,
       k-nearest neighbors and Linear classification I
+   - [x] [Video](https://youtu.be/8inugqHkfvE)
+   - [ ] [Slides](lecture-slides/lecture2.pdf)
    - [x] [Python/NumPy tutorial](lecture-notes/python-numpy-tutorial.pdf)
    - [ ] [Image classification notes](lecture-notes/image-classification.pdf)
    - [ ] [Linear classification notes](lecture-notes/linear-classification.pdf)
+- [ ] Lecture 3: Linear classification II, Higher-level
+      representations, image features, Optimization, stochastic
+      gradient descent
+   - [x] [Video](https://youtu.be/qlLChbHhbg4)
+   - [ ] [Slides](lecture-slides/lecture3.pdf)
+   - [ ] [Linear classification notes](lecture-notes/linear-classification.pdf)
+   - [ ] [Optimization notes](lecture-notes/optimization.pdf)
+- [ ] Lecture 4: Backpropagation, Introduction to neural networks
+   - [x] [Video](https://youtu.be/i94OvYb6noo)
+   - [ ] [Slides](lecture-slides/lecture4.pdf)
+   - [ ] [Backprop notes](lecture-notes/backprop.pdf)
+   - [ ] [Efficient Backprop](papers/efficient-backprop.pdf)
+   - [ ] Related references
+      - [ ] [Calculus on Computational Graphs](papers/backprop-calculus.pdf)
+      - [ ] [Backpropagation Algorithm](papers/backprop-calculus.pdf)
+      - [ ] [Learning: Neural Nets, Back Propagation](https://youtu.be/q0pm3BrIUFo)
+- [ ] Lecture 5:
+   - [x] [Video](https://youtu.be/)
+   - [ ] [Slides](lecture-slides/lecture5.pdf)
+- [ ] Lecture 6:
+   - [x] [Video](https://youtu.be/)
+   - [ ] [Slides](lecture-slides/lecture6.pdf)
+- [ ] Lecture 7:
+   - [ ] [Video](https://youtu.be/)
+   - [ ] [Slides](lecture-slides/lecture7.pdf)
