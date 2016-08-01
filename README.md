@@ -31,10 +31,10 @@ There is nothing to see here.
    - [x] [Video](https://youtu.be/i94OvYb6noo)
    - [ ] [Slides](lecture-slides/lecture4.pdf)
    - [ ] [Backprop notes](lecture-notes/backprop.pdf)
-   - [ ] [Efficient Backprop](papers/efficient-backprop.pdf)
    - [ ] Related references
+      - [ ] [Efficient Backprop](papers/efficient-backprop.pdf)
       - [ ] [Calculus on Computational Graphs](papers/backprop-calculus.pdf)
-      - [ ] [Backpropagation Algorithm](papers/backprop-calculus.pdf)
+      - [ ] [Backpropagation Algorithm](papers/backprop-algorithm.pdf)
       - [ ] [Learning: Neural Nets, Back Propagation](https://youtu.be/q0pm3BrIUFo)
 - [ ] Lecture 5:
    - [x] [Video](https://youtu.be/)
