@@ -36,6 +36,13 @@ There is nothing to see here.
       - [ ] [Calculus on Computational Graphs](papers/backprop-calculus.pdf)
       - [ ] [Backpropagation Algorithm](papers/backprop-algorithm.pdf)
       - [ ] [Learning: Neural Nets, Back Propagation](https://youtu.be/q0pm3BrIUFo)
+- [ ] [Assignment 1](assignments/assignment1/assignment1.pdf)
+   - [ ] k-Nearest Neighbor classifier
+   - [ ] Training a Support Vector Machine
+   - [ ] Implement a Softmax classifier
+   - [ ] Two-Layer Neural Network
+   - [ ] Higher Level Representations: Image Features
+   - [ ] Cool Bonus: Do something extra!
 - [ ] Lecture 5:
    - [x] [Video](https://youtu.be/)
    - [ ] [Slides](lecture-slides/lecture5.pdf)
