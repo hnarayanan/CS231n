@@ -17,20 +17,20 @@ There is nothing to see here.
       approach; k-nearest neighbors; Linear classification I
    - [x] [Video](https://youtu.be/8inugqHkfvE)
    - [ ] [Slides](lecture-slides/lecture2.pdf)
-   - [x] [Python/NumPy tutorial](lecture-notes/python-numpy-tutorial.pdf)
-   - [ ] [Image classification notes](lecture-notes/image-classification.pdf)
-   - [ ] [Linear classification notes](lecture-notes/linear-classification.pdf)
+   - [x] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
+   - [ ] [Image classification notes](notes/image-classification.pdf)
+   - [ ] [Linear classification notes](notes/linear-classification.pdf)
 - [ ] **Lecture 3:** Linear classification II; Higher-level
       representations, image features; Optimization, stochastic
       gradient descent
    - [x] [Video](https://youtu.be/qlLChbHhbg4)
    - [ ] [Slides](lecture-slides/lecture3.pdf)
-   - [ ] [Linear classification notes](lecture-notes/linear-classification.pdf)
-   - [ ] [Optimization notes](lecture-notes/optimization.pdf)
+   - [ ] [Linear classification notes](notes/linear-classification.pdf)
+   - [ ] [Optimization notes](notes/optimization.pdf)
 - [ ] **Lecture 4:** Backpropagation; Introduction to neural networks
    - [x] [Video](https://youtu.be/i94OvYb6noo)
    - [ ] [Slides](lecture-slides/lecture4.pdf)
-   - [ ] [Backprop notes](lecture-notes/backprop.pdf)
+   - [ ] [Backprop notes](notes/backprop.pdf)
    - [ ] Related references
       - [ ] [Efficient Backprop](papers/efficient-backprop.pdf)
       - [ ] [Calculus on Computational Graphs](papers/backprop-calculus.pdf)
@@ -49,9 +49,9 @@ There is nothing to see here.
       optimization
    - [x] [Video](https://youtu.be/gYpoJMlgyXA)
    - [ ] [Slides](lecture-slides/lecture5.pdf)
-   - [ ] [Neural Nets notes 1](lecture-notes/neural-nets-1.pdf)
-   - [ ] [Neural Nets notes 2](lecture-notes/neural-nets-2.pdf)
-   - [ ] [Neural Nets notes 3](lecture-notes/neural-nets-3.pdf)
+   - [ ] [Neural Nets notes 1](notes/neural-nets-1.pdf)
+   - [ ] [Neural Nets notes 2](notes/neural-nets-2.pdf)
+   - [ ] [Neural Nets notes 3](notes/neural-nets-3.pdf)
    - [ ] Related references
       - [ ] [Tips/Tricks 1](papers/sgd-tricks.pdf)
       - [ ] [Tips/Tricks 2](papers/efficient-backprop.pdf)
@@ -62,13 +62,13 @@ There is nothing to see here.
       intro
    - [x] [Video](https://youtu.be/hd_KFJ5ktUc)
    - [ ] [Slides](lecture-slides/lecture6.pdf)
-   - [ ] [Neural Nets notes 3](lecture-notes/neural-nets-3.pdf)
+   - [ ] [Neural Nets notes 3](notes/neural-nets-3.pdf)
 - [ ] **Lecture 7:** Convolutional Neural Networks: architectures,
       convolution / pooling layers; Case study of ImageNet challenge
       winning ConvNets
    - [x] [Video](https://youtu.be/LxfUGhug-iQ)
    - [ ] [Slides](lecture-slides/lecture7.pdf)
-   - [ ] [ConvNet notes](lecture-notes/conv-nets.pdf)
+   - [ ] [ConvNet notes](notes/conv-nets.pdf)
 - [ ] **Lecture 8:** ConvNets for spatial localization; Object
       detection
    - [x] [Video](https://youtu.be/GxZrEKZfW2o)
