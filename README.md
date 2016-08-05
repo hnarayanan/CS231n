@@ -44,35 +44,35 @@ There is nothing to see here.
    - [ ] Higher Level Representations: Image Features
    - [ ] Cool Bonus: Do something extra!
 - [ ] Lecture 5:
-   - [x] [Video](https://youtu.be/)
+   - [x] [Video](https://youtu.be/gYpoJMlgyXA)
    - [ ] [Slides](lecture-slides/lecture5.pdf)
 - [ ] Lecture 6:
-   - [x] [Video](https://youtu.be/)
+   - [x] [Video](https://youtu.be/hd_KFJ5ktUc)
    - [ ] [Slides](lecture-slides/lecture6.pdf)
 - [ ] Lecture 7:
-   - [ ] [Video](https://youtu.be/)
+   - [ ] [Video](https://youtu.be/LxfUGhug-iQ)
    - [ ] [Slides](lecture-slides/lecture7.pdf)
 - [ ] Lecture 8:
-   - [ ] [Video](https://youtu.be/)
+   - [ ] [Video](https://youtu.be/GxZrEKZfW2o)
    - [ ] [Slides](lecture-slides/lecture8.pdf)
 - [ ] Lecture 9:
-   - [ ] [Video](https://youtu.be/)
+   - [ ] [Video](https://youtu.be/ta5fdaqDT3M)
    - [ ] [Slides](lecture-slides/lecture9.pdf)
 - [ ] Lecture 10:
-   - [ ] [Video](https://youtu.be/)
+   - [ ] [Video](https://youtu.be/yCC09vCHzF8)
    - [ ] [Slides](lecture-slides/lecture10.pdf)
 - [ ] Lecture 11:
-   - [ ] [Video](https://youtu.be/)
+   - [ ] [Video](https://youtu.be/pA4BsUK3oP4)
    - [ ] [Slides](lecture-slides/lecture11.pdf)
 - [ ] Lecture 12:
-   - [ ] [Video](https://youtu.be/)
+   - [ ] [Video](https://youtu.be/Vf_-OkqbwPo)
    - [ ] [Slides](lecture-slides/lecture12.pdf)
 - [ ] Lecture 13:
-   - [ ] [Video](https://youtu.be/)
+   - [ ] [Video](https://youtu.be/ByjaPdWXKJ4)
    - [ ] [Slides](lecture-slides/lecture13.pdf)
 - [ ] Lecture 14:
-   - [ ] [Video](https://youtu.be/)
+   - [ ] [Video](https://youtu.be/ekyBklxwQMU)
    - [ ] [Slides](lecture-slides/lecture14.pdf)
 - [ ] Lecture 15:
-   - [ ] [Video](https://youtu.be/)
+   - [ ] [Video](https://youtu.be/T7YkPWpwFD4)
    - [ ] [Slides](lecture-slides/lecture15.pdf)
