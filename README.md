@@ -52,3 +52,27 @@ There is nothing to see here.
 - [ ] Lecture 7:
    - [ ] [Video](https://youtu.be/)
    - [ ] [Slides](lecture-slides/lecture7.pdf)
+- [ ] Lecture 8:
+   - [ ] [Video](https://youtu.be/)
+   - [ ] [Slides](lecture-slides/lecture8.pdf)
+- [ ] Lecture 9:
+   - [ ] [Video](https://youtu.be/)
+   - [ ] [Slides](lecture-slides/lecture9.pdf)
+- [ ] Lecture 10:
+   - [ ] [Video](https://youtu.be/)
+   - [ ] [Slides](lecture-slides/lecture10.pdf)
+- [ ] Lecture 11:
+   - [ ] [Video](https://youtu.be/)
+   - [ ] [Slides](lecture-slides/lecture11.pdf)
+- [ ] Lecture 12:
+   - [ ] [Video](https://youtu.be/)
+   - [ ] [Slides](lecture-slides/lecture12.pdf)
+- [ ] Lecture 13:
+   - [ ] [Video](https://youtu.be/)
+   - [ ] [Slides](lecture-slides/lecture13.pdf)
+- [ ] Lecture 14:
+   - [ ] [Video](https://youtu.be/)
+   - [ ] [Slides](lecture-slides/lecture14.pdf)
+- [ ] Lecture 15:
+   - [ ] [Video](https://youtu.be/)
+   - [ ] [Slides](lecture-slides/lecture15.pdf)
