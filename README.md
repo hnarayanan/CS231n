@@ -12,11 +12,11 @@ There is nothing to see here.
 
 - [x] **Lecture 1:** Intro to computer vision, historical context.
    - [x] [Video](https://youtu.be/NfnWJUyUJYU)
-   - [ ] [Slides](lecture-slides/lecture1.pdf)
+   - [ ] [Slides](slides/lecture1.pdf)
 - [ ] **Lecture 2:** Image classification and the data-driven
       approach; k-nearest neighbors; Linear classification I
    - [x] [Video](https://youtu.be/8inugqHkfvE)
-   - [ ] [Slides](lecture-slides/lecture2.pdf)
+   - [ ] [Slides](slides/lecture2.pdf)
    - [x] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
    - [ ] [Image classification notes](notes/image-classification.pdf)
    - [ ] [Linear classification notes](notes/linear-classification.pdf)
@@ -24,12 +24,12 @@ There is nothing to see here.
       representations, image features; Optimization, stochastic
       gradient descent
    - [x] [Video](https://youtu.be/qlLChbHhbg4)
-   - [ ] [Slides](lecture-slides/lecture3.pdf)
+   - [ ] [Slides](slides/lecture3.pdf)
    - [ ] [Linear classification notes](notes/linear-classification.pdf)
    - [ ] [Optimization notes](notes/optimization.pdf)
 - [ ] **Lecture 4:** Backpropagation; Introduction to neural networks
    - [x] [Video](https://youtu.be/i94OvYb6noo)
-   - [ ] [Slides](lecture-slides/lecture4.pdf)
+   - [ ] [Slides](slides/lecture4.pdf)
    - [ ] [Backprop notes](notes/backprop.pdf)
    - [ ] Related references
       - [ ] [Efficient Backprop](papers/efficient-backprop.pdf)
@@ -48,7 +48,7 @@ There is nothing to see here.
       normalization; Babysitting the learning process, hyperparameter
       optimization
    - [x] [Video](https://youtu.be/gYpoJMlgyXA)
-   - [ ] [Slides](lecture-slides/lecture5.pdf)
+   - [ ] [Slides](slides/lecture5.pdf)
    - [ ] [Neural Nets notes 1](notes/neural-nets-1.pdf)
    - [ ] [Neural Nets notes 2](notes/neural-nets-2.pdf)
    - [ ] [Neural Nets notes 3](notes/neural-nets-3.pdf)
@@ -61,38 +61,38 @@ There is nothing to see here.
       updates, ensembles, dropout; Convolutional Neural Networks:
       intro
    - [x] [Video](https://youtu.be/hd_KFJ5ktUc)
-   - [ ] [Slides](lecture-slides/lecture6.pdf)
+   - [ ] [Slides](slides/lecture6.pdf)
    - [ ] [Neural Nets notes 3](notes/neural-nets-3.pdf)
 - [ ] **Lecture 7:** Convolutional Neural Networks: architectures,
       convolution / pooling layers; Case study of ImageNet challenge
       winning ConvNets
    - [x] [Video](https://youtu.be/LxfUGhug-iQ)
-   - [ ] [Slides](lecture-slides/lecture7.pdf)
+   - [ ] [Slides](slides/lecture7.pdf)
    - [ ] [ConvNet notes](notes/conv-nets.pdf)
 - [ ] **Lecture 8:** ConvNets for spatial localization; Object
       detection
    - [x] [Video](https://youtu.be/GxZrEKZfW2o)
-   - [ ] [Slides](lecture-slides/lecture8.pdf)
+   - [ ] [Slides](slides/lecture8.pdf)
 - [ ] **Lecture 9:** Understanding and visualizing Convolutional
       Neural Networks; Backprop into image: Visualizations, deep
       dream, artistic style transfer; Adversarial fooling examples
    - [ ] [Video](https://youtu.be/ta5fdaqDT3M)
-   - [ ] [Slides](lecture-slides/lecture9.pdf)
+   - [ ] [Slides](slides/lecture9.pdf)
 - [ ] **Lecture 10:**
    - [ ] [Video](https://youtu.be/yCC09vCHzF8)
-   - [ ] [Slides](lecture-slides/lecture10.pdf)
+   - [ ] [Slides](slides/lecture10.pdf)
 - [ ] **Lecture 11:**
    - [ ] [Video](https://youtu.be/pA4BsUK3oP4)
-   - [ ] [Slides](lecture-slides/lecture11.pdf)
+   - [ ] [Slides](slides/lecture11.pdf)
 - [ ] **Lecture 12:**
    - [ ] [Video](https://youtu.be/Vf_-OkqbwPo)
-   - [ ] [Slides](lecture-slides/lecture12.pdf)
+   - [ ] [Slides](slides/lecture12.pdf)
 - [ ] **Lecture 13:**
    - [ ] [Video](https://youtu.be/ByjaPdWXKJ4)
-   - [ ] [Slides](lecture-slides/lecture13.pdf)
+   - [ ] [Slides](slides/lecture13.pdf)
 - [ ] **Lecture 14:**
    - [ ] [Video](https://youtu.be/ekyBklxwQMU)
-   - [ ] [Slides](lecture-slides/lecture14.pdf)
+   - [ ] [Slides](slides/lecture14.pdf)
 - [ ] **Lecture 15:**
    - [ ] [Video](https://youtu.be/T7YkPWpwFD4)
-   - [ ] [Slides](lecture-slides/lecture15.pdf)
+   - [ ] [Slides](slides/lecture15.pdf)
