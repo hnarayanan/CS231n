@@ -66,13 +66,16 @@ There is nothing to see here.
 - [ ] **Lecture 7:** Convolutional Neural Networks: architectures,
       convolution / pooling layers; Case study of ImageNet challenge
       winning ConvNets
-   - [ ] [Video](https://youtu.be/LxfUGhug-iQ)
+   - [x] [Video](https://youtu.be/LxfUGhug-iQ)
    - [ ] [Slides](lecture-slides/lecture7.pdf)
    - [ ] [ConvNet notes](lecture-notes/conv-nets.pdf)
-- [ ] **Lecture 8:**
-   - [ ] [Video](https://youtu.be/GxZrEKZfW2o)
+- [ ] **Lecture 8:** ConvNets for spatial localization; Object
+      detection
+   - [x] [Video](https://youtu.be/GxZrEKZfW2o)
    - [ ] [Slides](lecture-slides/lecture8.pdf)
-- [ ] **Lecture 9:**
+- [ ] **Lecture 9:** Understanding and visualizing Convolutional
+      Neural Networks; Backprop into image: Visualizations, deep
+      dream, artistic style transfer; Adversarial fooling examples
    - [ ] [Video](https://youtu.be/ta5fdaqDT3M)
    - [ ] [Slides](lecture-slides/lecture9.pdf)
 - [ ] **Lecture 10:**
