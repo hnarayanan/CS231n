@@ -13,21 +13,21 @@ There is nothing to see here.
 - [x] Lecture 1: Intro to computer vision, historical context.
    - [x] [Video](https://youtu.be/NfnWJUyUJYU)
    - [ ] [Slides](lecture-slides/lecture1.pdf)
-- [ ] Lecture 2: Image classification and the data-driven approach,
-      k-nearest neighbors and Linear classification I
+- [ ] Lecture 2: Image classification and the data-driven approach;
+      k-nearest neighbors; Linear classification I
    - [x] [Video](https://youtu.be/8inugqHkfvE)
    - [ ] [Slides](lecture-slides/lecture2.pdf)
    - [x] [Python/NumPy tutorial](lecture-notes/python-numpy-tutorial.pdf)
    - [ ] [Image classification notes](lecture-notes/image-classification.pdf)
    - [ ] [Linear classification notes](lecture-notes/linear-classification.pdf)
-- [ ] Lecture 3: Linear classification II, Higher-level
-      representations, image features, Optimization, stochastic
+- [ ] Lecture 3: Linear classification II; Higher-level
+      representations, image features; Optimization, stochastic
       gradient descent
    - [x] [Video](https://youtu.be/qlLChbHhbg4)
    - [ ] [Slides](lecture-slides/lecture3.pdf)
    - [ ] [Linear classification notes](lecture-notes/linear-classification.pdf)
    - [ ] [Optimization notes](lecture-notes/optimization.pdf)
-- [ ] Lecture 4: Backpropagation, Introduction to neural networks
+- [ ] Lecture 4: Backpropagation; Introduction to neural networks
    - [x] [Video](https://youtu.be/i94OvYb6noo)
    - [ ] [Slides](lecture-slides/lecture4.pdf)
    - [ ] [Backprop notes](lecture-notes/backprop.pdf)
@@ -43,9 +43,20 @@ There is nothing to see here.
    - [ ] Two-Layer Neural Network
    - [ ] Higher Level Representations: Image Features
    - [ ] Cool Bonus: Do something extra!
-- [ ] Lecture 5:
+- [ ] Lecture 5: Training Neural Networks Part 1; Activation
+      functions, weight initialization, gradient flow, batch
+      normalization; Babysitting the learning process, hyperparameter
+      optimization
    - [x] [Video](https://youtu.be/gYpoJMlgyXA)
    - [ ] [Slides](lecture-slides/lecture5.pdf)
+   - [ ] [Neural Nets notes 1](lecture-notes/neural-nets-1.pdf)
+   - [ ] [Neural Nets notes 2](lecture-notes/neural-nets-2.pdf)
+   - [ ] [Neural Nets notes 3](lecture-notes/neural-nets-3.pdf)
+   - [ ] Related references
+      - [ ] [Tips/Tricks 1](papers/sgd-tricks.pdf)
+      - [ ] [Tips/Tricks 2](papers/efficient-backprop.pdf)
+      - [ ] [Tips/Tricks 3](papers/practical-sgd.pdf)
+      - [ ] [Deep learning review article](papers/deep-review.pdf)
 - [ ] Lecture 6:
    - [x] [Video](https://youtu.be/hd_KFJ5ktUc)
    - [ ] [Slides](lecture-slides/lecture6.pdf)
