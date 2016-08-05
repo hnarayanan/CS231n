@@ -63,9 +63,12 @@ There is nothing to see here.
    - [x] [Video](https://youtu.be/hd_KFJ5ktUc)
    - [ ] [Slides](lecture-slides/lecture6.pdf)
    - [ ] [Neural Nets notes 3](lecture-notes/neural-nets-3.pdf)
-- [ ] **Lecture 7:**
+- [ ] **Lecture 7:** Convolutional Neural Networks: architectures,
+      convolution / pooling layers; Case study of ImageNet challenge
+      winning ConvNets
    - [ ] [Video](https://youtu.be/LxfUGhug-iQ)
    - [ ] [Slides](lecture-slides/lecture7.pdf)
+   - [ ] [ConvNet notes](lecture-notes/conv-nets.pdf)
 - [ ] **Lecture 8:**
    - [ ] [Video](https://youtu.be/GxZrEKZfW2o)
    - [ ] [Slides](lecture-slides/lecture8.pdf)
