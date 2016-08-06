@@ -12,13 +12,13 @@ There is nothing to see here.
 
 - [x] **Lecture 1:** Intro to computer vision, historical context.
    - [x] [Video](https://youtu.be/NfnWJUyUJYU)
-   - [ ] [Slides](slides/lecture1.pdf)
+   - [x] [Slides](slides/lecture1.pdf)
 - [ ] **Lecture 2:** Image classification and the data-driven
       approach; k-nearest neighbors; Linear classification I
    - [x] [Video](https://youtu.be/8inugqHkfvE)
-   - [ ] [Slides](slides/lecture2.pdf)
+   - [x] [Slides](slides/lecture2.pdf)
    - [x] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
-   - [ ] [Image classification notes](notes/image-classification.pdf)
+   - [x] [Image classification notes](notes/image-classification.pdf)
    - [ ] [Linear classification notes](notes/linear-classification.pdf)
 - [ ] **Lecture 3:** Linear classification II; Higher-level
       representations, image features; Optimization, stochastic
