@@ -95,7 +95,7 @@ There is nothing to see here.
 - [ ] **Lecture 14:** ConvNets for videos; Unsupervised learning
    - [ ] [Video](https://youtu.be/ekyBklxwQMU)
    - [ ] [Slides](slides/lecture14.pdf)
-- [ ] **Invited Lecture:** A sampling of deep learning at Google
-   - [ ] [Video](https://youtu.be/T7YkPWpwFD4)
+- [x] **Invited Lecture:** A sampling of deep learning at Google
+   - [x] [Video](https://youtu.be/T7YkPWpwFD4)
 - [ ] **Lecture 15:** Conclusions
    - [ ] [Slides](slides/lecture15.pdf)
