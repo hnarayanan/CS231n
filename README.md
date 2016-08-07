@@ -10,7 +10,7 @@ There is nothing to see here.
 
 ## Course Syllabus
 
-- [x] **Lecture 1:** Intro to computer vision, historical context.
+- [x] **Lecture 1:** Intro to computer vision, historical context
    - [x] [Video](https://youtu.be/NfnWJUyUJYU)
    - [x] [Slides](slides/lecture1.pdf)
 - [ ] **Lecture 2:** Image classification and the data-driven
@@ -87,12 +87,15 @@ There is nothing to see here.
 - [ ] **Lecture 12:**
    - [ ] [Video](https://youtu.be/Vf_-OkqbwPo)
    - [ ] [Slides](slides/lecture12.pdf)
-- [ ] **Lecture 13:**
+- [ ] **[Assignment 3]()**
+- [ ] **Lecture 13:** Segmentation; Soft attention models; Spatial
+      transformer networks
    - [ ] [Video](https://youtu.be/ByjaPdWXKJ4)
    - [ ] [Slides](slides/lecture13.pdf)
-- [ ] **Lecture 14:**
+- [ ] **Lecture 14:** ConvNets for videos; Unsupervised learning
    - [ ] [Video](https://youtu.be/ekyBklxwQMU)
    - [ ] [Slides](slides/lecture14.pdf)
-- [ ] **Lecture 15:**
+- [ ] **Invited Lecture:** A sampling of deep learning at Google
    - [ ] [Video](https://youtu.be/T7YkPWpwFD4)
+- [ ] **Lecture 15:** Conclusions
    - [ ] [Slides](slides/lecture15.pdf)
