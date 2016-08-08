@@ -78,7 +78,12 @@ There is nothing to see here.
       dream, artistic style transfer; Adversarial fooling examples
    - [ ] [Video](https://youtu.be/ta5fdaqDT3M)
    - [ ] [Slides](slides/lecture9.pdf)
-- [ ] **[Assignment 2](assignments/assignment1/assignment2.pdf)**
+- [ ] **[Assignment 2](assignments/assignment2/assignment2.pdf)**
+   - [ ] Fully-connected Neural Network
+   - [ ] Batch Normalization
+   - [ ] Dropout
+   - [ ] ConvNet on CIFAR-10
+   - [ ] Do something extra!
 - [ ] **Lecture 10:** Recurrent Neural Networks (RNN), Long Short Term
        Memory (LSTM); RNN language models; Image captioning
    - [ ] [Video](https://youtu.be/yCC09vCHzF8)
@@ -96,7 +101,12 @@ There is nothing to see here.
 - [ ] **Lecture 12:** Overview of Caffe/Torch/Theano/TensorFlow
    - [ ] [Video](https://youtu.be/Vf_-OkqbwPo)
    - [ ] [Slides](slides/lecture12.pdf)
-- [ ] **[Assignment 3]()**
+- [ ] **[Assignment 3](assignments/assignment3/assignment3.pdf)**
+   - [ ] Image Captioning with Vanilla RNNs
+   - [ ] Image Captioning with LSTMs
+   - [ ] Image Gradients: Saliency maps and Fooling Images
+   - [ ] Image Generation: Classes, Inversion, DeepDream
+   - [ ] Do something extra!
 - [ ] **Lecture 13:** Segmentation; Soft attention models; Spatial
       transformer networks
    - [ ] [Video](https://youtu.be/ByjaPdWXKJ4)
