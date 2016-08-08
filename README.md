@@ -78,13 +78,22 @@ There is nothing to see here.
       dream, artistic style transfer; Adversarial fooling examples
    - [ ] [Video](https://youtu.be/ta5fdaqDT3M)
    - [ ] [Slides](slides/lecture9.pdf)
-- [ ] **Lecture 10:**
+- [ ] **[Assignment 2](assignments/assignment1/assignment2.pdf)**
+- [ ] **Lecture 10:** Recurrent Neural Networks (RNN), Long Short Term
+       Memory (LSTM); RNN language models; Image captioning
    - [ ] [Video](https://youtu.be/yCC09vCHzF8)
    - [ ] [Slides](slides/lecture10.pdf)
-- [ ] **Lecture 11:**
+   - [ ] Related references
+      - [ ] [Recurrent neural networks](papers/rnn.html)
+      - [ ] [Min Char RNN](https://gist.github.com/karpathy/d4dee566867f8291f086)
+      - [ ] [Char RNN](https://github.com/karpathy/char-rnn)
+      - [ ] [NeuralTalk2](https://github.com/karpathy/neuraltalk2)
+- [ ] **Lecture 11:** Training ConvNets in practice; Data
+      augmentation, transfer learning; Distributed training, CPU/GPU
+      bottlenecks; Efficient convolutions
    - [ ] [Video](https://youtu.be/pA4BsUK3oP4)
    - [ ] [Slides](slides/lecture11.pdf)
-- [ ] **Lecture 12:**
+- [ ] **Lecture 12:** Overview of Caffe/Torch/Theano/TensorFlow
    - [ ] [Video](https://youtu.be/Vf_-OkqbwPo)
    - [ ] [Slides](slides/lecture12.pdf)
 - [ ] **[Assignment 3]()**
