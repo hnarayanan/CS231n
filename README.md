@@ -20,13 +20,13 @@ There is nothing to see here.
    - [x] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
    - [x] [Image classification notes](notes/image-classification.pdf)
    - [x] [Linear classification notes](notes/linear-classification.pdf)
-- [ ] **Lecture 3:** Linear classification II; Higher-level
+- [x] **Lecture 3:** Linear classification II; Higher-level
       representations, image features; Optimization, stochastic
       gradient descent
    - [x] [Video](https://youtu.be/qlLChbHhbg4)
-   - [ ] [Slides](slides/lecture3.pdf)
+   - [x] [Slides](slides/lecture3.pdf)
    - [x] [Linear classification notes](notes/linear-classification.pdf)
-   - [ ] [Optimization notes](notes/optimization.pdf)
+   - [x] [Optimization notes](notes/optimization.pdf)
 - [ ] **Lecture 4:** Backpropagation; Introduction to neural networks
    - [x] [Video](https://youtu.be/i94OvYb6noo)
    - [ ] [Slides](slides/lecture4.pdf)
