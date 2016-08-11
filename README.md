@@ -32,7 +32,7 @@ There is nothing to see here.
    - [x] [Slides](slides/lecture4.pdf)
    - [x] [Backprop notes](notes/backprop.pdf)
    - [ ] Related references
-      - [ ] [Efficient Backprop](papers/efficient-backprop.pdf)
+      - [ ] [Efficient Backprop](papers/efficient-backprop.pdf) -- 3/44
       - [ ] [Automatic differentiation survey](papers/automatic-differentiation.pdf)
       - [ ] [Calculus on Computational Graphs](papers/backprop-calculus.pdf)
       - [ ] [Backpropagation Algorithm](papers/backprop-algorithm.pdf)
@@ -50,7 +50,7 @@ There is nothing to see here.
       optimization
    - [x] [Video](https://youtu.be/gYpoJMlgyXA)
    - [ ] [Slides](slides/lecture5.pdf)
-   - [ ] [Neural Nets notes 1](notes/neural-nets-1.pdf)
+   - [x] [Neural Nets notes 1](notes/neural-nets-1.pdf)
    - [ ] [Neural Nets notes 2](notes/neural-nets-2.pdf)
    - [ ] [Neural Nets notes 3](notes/neural-nets-3.pdf)
    - [ ] Related references
