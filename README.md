@@ -50,8 +50,8 @@ There is nothing to see here.
       optimization
    - [x] [Video](https://youtu.be/gYpoJMlgyXA)
    - [ ] [Slides](slides/lecture5.pdf)
-   - [x] [Neural Nets notes 1](notes/neural-nets-1.pdf)
-   - [ ] [Neural Nets notes 2](notes/neural-nets-2.pdf)
+   - [ ] [Neural Nets notes 1](notes/neural-nets-1.pdf)
+   - [x] [Neural Nets notes 2](notes/neural-nets-2.pdf)
    - [ ] [Neural Nets notes 3](notes/neural-nets-3.pdf)
    - [ ] Related references
       - [ ] [Tips/Tricks 1](papers/sgd-tricks.pdf)
