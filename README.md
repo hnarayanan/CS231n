@@ -29,10 +29,11 @@ There is nothing to see here.
    - [x] [Optimization notes](notes/optimization.pdf)
 - [ ] **Lecture 4:** Backpropagation; Introduction to neural networks
    - [x] [Video](https://youtu.be/i94OvYb6noo)
-   - [ ] [Slides](slides/lecture4.pdf)
-   - [ ] [Backprop notes](notes/backprop.pdf)
+   - [x] [Slides](slides/lecture4.pdf)
+   - [x] [Backprop notes](notes/backprop.pdf)
    - [ ] Related references
       - [ ] [Efficient Backprop](papers/efficient-backprop.pdf)
+      - [ ] [Automatic differentiation survey](papers/automatic-differentiation.pdf)
       - [ ] [Calculus on Computational Graphs](papers/backprop-calculus.pdf)
       - [ ] [Backpropagation Algorithm](papers/backprop-algorithm.pdf)
       - [ ] [Learning: Neural Nets, Back Propagation](https://youtu.be/q0pm3BrIUFo)
