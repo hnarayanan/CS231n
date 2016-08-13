@@ -74,11 +74,11 @@ There is nothing to see here.
       detection
    - [x] [Video](https://youtu.be/GxZrEKZfW2o)
    - [ ] [Slides](slides/lecture8.pdf)
-- [ ] **Lecture 9:** Understanding and visualizing Convolutional
+- [x] **Lecture 9:** Understanding and visualizing Convolutional
       Neural Networks; Backprop into image: Visualizations, deep
       dream, artistic style transfer; Adversarial fooling examples
-   - [ ] [Video](https://youtu.be/ta5fdaqDT3M)
-   - [ ] [Slides](slides/lecture9.pdf)
+   - [x] [Video](https://youtu.be/ta5fdaqDT3M)
+   - [x] [Slides](slides/lecture9.pdf)
 - [ ] **[Assignment 2](assignments/assignment2/assignment2.pdf)**
    - [ ] Fully-connected Neural Network
    - [ ] Batch Normalization
