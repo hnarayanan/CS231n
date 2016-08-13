@@ -49,10 +49,10 @@ There is nothing to see here.
       normalization; Babysitting the learning process, hyperparameter
       optimization
    - [x] [Video](https://youtu.be/gYpoJMlgyXA)
-   - [ ] [Slides](slides/lecture5.pdf)
+   - [x] [Slides](slides/lecture5.pdf)
    - [x] [Neural Nets notes 1](notes/neural-nets-1.pdf)
    - [x] [Neural Nets notes 2](notes/neural-nets-2.pdf)
-   - [ ] [Neural Nets notes 3](notes/neural-nets-3.pdf)
+   - [x] [Neural Nets notes 3](notes/neural-nets-3.pdf)
    - [ ] Related references
       - [ ] [Tips/Tricks 1](papers/sgd-tricks.pdf)
       - [ ] [Tips/Tricks 2](papers/efficient-backprop.pdf)
@@ -63,7 +63,7 @@ There is nothing to see here.
       intro
    - [x] [Video](https://youtu.be/hd_KFJ5ktUc)
    - [ ] [Slides](slides/lecture6.pdf)
-   - [ ] [Neural Nets notes 3](notes/neural-nets-3.pdf)
+   - [x] [Neural Nets notes 3](notes/neural-nets-3.pdf)
 - [ ] **Lecture 7:** Convolutional Neural Networks: architectures,
       convolution / pooling layers; Case study of ImageNet challenge
       winning ConvNets
