@@ -2,9 +2,12 @@
 
 This repository is simply me working through [CS231n: Convolutional
 Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
-(Winter 2016), a course that’s got rave reviews everywhere.
+(Winter 2016).
 
 There is nothing to see here.
+
+But if you’re even vaguely interested in this topic, you should
+probably take this class. It is outstanding.
 
 [Harish Narayanan](https://harishnarayanan.org/), 2016
 
@@ -36,7 +39,7 @@ There is nothing to see here.
       - [ ] [Automatic differentiation survey](papers/automatic-differentiation.pdf)
       - [ ] [Calculus on Computational Graphs](papers/backprop-calculus.pdf)
       - [ ] [Backpropagation Algorithm](papers/backprop-algorithm.pdf)
-      - [ ] [Learning: Neural Nets, Back Propagation](https://youtu.be/q0pm3BrIUFo)
+      - [x] [Learning: Neural Nets, Back Propagation](https://youtu.be/q0pm3BrIUFo)
 - [ ] **[Assignment 1](assignments/assignment1/assignment1.pdf)**
    - [ ] k-Nearest Neighbor classifier
    - [ ] Training a Support Vector Machine
