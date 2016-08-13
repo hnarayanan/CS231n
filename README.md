@@ -58,11 +58,11 @@ There is nothing to see here.
       - [ ] [Tips/Tricks 2](papers/efficient-backprop.pdf)
       - [ ] [Tips/Tricks 3](papers/practical-sgd.pdf)
       - [ ] [Deep learning review article](papers/deep-review.pdf)
-- [ ] **Lecture 6:** Training Neural Networks Part 2: parameter
+- [x] **Lecture 6:** Training Neural Networks Part 2: parameter
       updates, ensembles, dropout; Convolutional Neural Networks:
       intro
    - [x] [Video](https://youtu.be/hd_KFJ5ktUc)
-   - [ ] [Slides](slides/lecture6.pdf)
+   - [x] [Slides](slides/lecture6.pdf)
    - [x] [Neural Nets notes 3](notes/neural-nets-3.pdf)
 - [ ] **Lecture 7:** Convolutional Neural Networks: architectures,
       convolution / pooling layers; Case study of ImageNet challenge
