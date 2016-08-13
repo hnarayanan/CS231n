@@ -94,11 +94,11 @@ There is nothing to see here.
       - [ ] [Min Char RNN](https://gist.github.com/karpathy/d4dee566867f8291f086)
       - [ ] [Char RNN](https://github.com/karpathy/char-rnn)
       - [ ] [NeuralTalk2](https://github.com/karpathy/neuraltalk2)
-- [ ] **Lecture 11:** Training ConvNets in practice; Data
+- [x] **Lecture 11:** Training ConvNets in practice; Data
       augmentation, transfer learning; Distributed training, CPU/GPU
       bottlenecks; Efficient convolutions
-   - [ ] [Video](https://youtu.be/pA4BsUK3oP4)
-   - [ ] [Slides](slides/lecture11.pdf)
+   - [x] [Video](https://youtu.be/pA4BsUK3oP4)
+   - [x] [Slides](slides/lecture11.pdf)
 - [ ] **Lecture 12:** Overview of Caffe/Torch/Theano/TensorFlow
    - [ ] [Video](https://youtu.be/Vf_-OkqbwPo)
    - [ ] [Slides](slides/lecture12.pdf)
