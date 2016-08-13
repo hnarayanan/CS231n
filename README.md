@@ -99,9 +99,9 @@ There is nothing to see here.
       bottlenecks; Efficient convolutions
    - [x] [Video](https://youtu.be/pA4BsUK3oP4)
    - [x] [Slides](slides/lecture11.pdf)
-- [ ] **Lecture 12:** Overview of Caffe/Torch/Theano/TensorFlow
-   - [ ] [Video](https://youtu.be/Vf_-OkqbwPo)
-   - [ ] [Slides](slides/lecture12.pdf)
+- [x] **Lecture 12:** Overview of Caffe/Torch/Theano/TensorFlow
+   - [x] [Video](https://youtu.be/Vf_-OkqbwPo)
+   - [x] [Slides](slides/lecture12.pdf)
 - [ ] **[Assignment 3](assignments/assignment3/assignment3.pdf)**
    - [ ] Image Captioning with Vanilla RNNs
    - [ ] Image Captioning with LSTMs
