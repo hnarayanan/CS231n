@@ -60,7 +60,7 @@ probably take this class. It is outstanding.
       - [ ] [Tips/Tricks 1](papers/sgd-tricks.pdf)
       - [ ] [Tips/Tricks 2](papers/efficient-backprop.pdf)
       - [ ] [Tips/Tricks 3](papers/practical-sgd.pdf)
-      - [ ] [Deep learning review article](papers/deep-review.pdf)
+      - [x] [Deep learning review article](papers/deep-review.pdf)
 - [x] **Lecture 6:** Training Neural Networks Part 2: parameter
       updates, ensembles, dropout; Convolutional Neural Networks:
       intro
