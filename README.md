@@ -73,10 +73,10 @@ probably take this class. It is outstanding.
    - [x] [Video](https://youtu.be/LxfUGhug-iQ)
    - [x] [Slides](slides/lecture7.pdf)
    - [ ] [ConvNet notes](notes/conv-nets.pdf)
-- [ ] **Lecture 8:** ConvNets for spatial localization; Object
+- [x] **Lecture 8:** ConvNets for spatial localization; Object
       detection
    - [x] [Video](https://youtu.be/GxZrEKZfW2o)
-   - [ ] [Slides](slides/lecture8.pdf)
+   - [x] [Slides](slides/lecture8.pdf)
 - [x] **Lecture 9:** Understanding and visualizing Convolutional
       Neural Networks; Backprop into image: Visualizations, deep
       dream, artistic style transfer; Adversarial fooling examples
