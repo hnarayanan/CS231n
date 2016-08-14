@@ -67,12 +67,12 @@ probably take this class. It is outstanding.
    - [x] [Video](https://youtu.be/hd_KFJ5ktUc)
    - [x] [Slides](slides/lecture6.pdf)
    - [x] [Neural Nets notes 3](notes/neural-nets-3.pdf)
-- [ ] **Lecture 7:** Convolutional Neural Networks: architectures,
+- [x] **Lecture 7:** Convolutional Neural Networks: architectures,
       convolution / pooling layers; Case study of ImageNet challenge
       winning ConvNets
    - [x] [Video](https://youtu.be/LxfUGhug-iQ)
    - [x] [Slides](slides/lecture7.pdf)
-   - [ ] [ConvNet notes](notes/conv-nets.pdf)
+   - [x] [ConvNet notes](notes/conv-nets.pdf)
 - [x] **Lecture 8:** ConvNets for spatial localization; Object
       detection
    - [x] [Video](https://youtu.be/GxZrEKZfW2o)
