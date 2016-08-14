@@ -71,7 +71,7 @@ probably take this class. It is outstanding.
       convolution / pooling layers; Case study of ImageNet challenge
       winning ConvNets
    - [x] [Video](https://youtu.be/LxfUGhug-iQ)
-   - [ ] [Slides](slides/lecture7.pdf)
+   - [x] [Slides](slides/lecture7.pdf)
    - [ ] [ConvNet notes](notes/conv-nets.pdf)
 - [ ] **Lecture 8:** ConvNets for spatial localization; Object
       detection
