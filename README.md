@@ -90,8 +90,8 @@ probably take this class. It is outstanding.
    - [ ] Do something extra!
 - [ ] **Lecture 10:** Recurrent Neural Networks (RNN), Long Short Term
        Memory (LSTM); RNN language models; Image captioning
-   - [ ] [Video](https://youtu.be/yCC09vCHzF8)
-   - [ ] [Slides](slides/lecture10.pdf)
+   - [x] [Video](https://youtu.be/yCC09vCHzF8)
+   - [x] [Slides](slides/lecture10.pdf)
    - [ ] Related references
       - [ ] [Recurrent neural networks](papers/rnn.html)
       - [ ] [Min Char RNN](https://gist.github.com/karpathy/d4dee566867f8291f086)
