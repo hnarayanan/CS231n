@@ -111,10 +111,10 @@ probably take this class. It is outstanding.
    - [ ] Image Gradients: Saliency maps and Fooling Images
    - [ ] Image Generation: Classes, Inversion, DeepDream
    - [ ] Do something extra!
-- [ ] **Lecture 13:** Segmentation; Soft attention models; Spatial
+- [x] **Lecture 13:** Segmentation; Soft attention models; Spatial
       transformer networks
-   - [ ] [Video](https://youtu.be/ByjaPdWXKJ4)
-   - [ ] [Slides](slides/lecture13.pdf)
+   - [x] [Video](https://youtu.be/ByjaPdWXKJ4)
+   - [x] [Slides](slides/lecture13.pdf)
 - [ ] **Lecture 14:** ConvNets for videos; Unsupervised learning
    - [ ] [Video](https://youtu.be/ekyBklxwQMU)
    - [ ] [Slides](slides/lecture14.pdf)
