@@ -115,9 +115,9 @@ probably take this class. It is outstanding.
       transformer networks
    - [x] [Video](https://youtu.be/ByjaPdWXKJ4)
    - [x] [Slides](slides/lecture13.pdf)
-- [ ] **Lecture 14:** ConvNets for videos; Unsupervised learning
-   - [ ] [Video](https://youtu.be/ekyBklxwQMU)
-   - [ ] [Slides](slides/lecture14.pdf)
+- [x] **Lecture 14:** ConvNets for videos; Unsupervised learning
+   - [x] [Video](https://youtu.be/ekyBklxwQMU)
+   - [x] [Slides](slides/lecture14.pdf)
 - [x] **Invited Lecture:** A sampling of deep learning at Google
    - [x] [Video](https://youtu.be/T7YkPWpwFD4)
 - [ ] **Lecture 15:** Conclusions
