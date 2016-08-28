@@ -120,5 +120,5 @@ probably take this class. It is outstanding.
    - [x] [Slides](slides/lecture14.pdf)
 - [x] **Invited Lecture:** A sampling of deep learning at Google
    - [x] [Video](https://youtu.be/T7YkPWpwFD4)
-- [ ] **Lecture 15:** Conclusions
-   - [ ] [Slides](slides/lecture15.pdf)
+- [x] **Lecture 15:** Conclusions
+   - [x] [Slides](slides/lecture15.pdf)
