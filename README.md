@@ -5,10 +5,13 @@ Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
 (Winter 2016). If you’re even vaguely interested in this topic, you
 should probably take this class. It is outstanding.
 
-To use this repository, [make a clone of
-it](https://help.github.com/articles/cloning-a-repository/) and then
-tick off the items in the following syllabus as you complete them. (You
-can tick off items by replacing `[ ]` with `[x]` in `README.md`.)
+To use this repository, [make a fork of
+it](https://help.github.com/articles/fork-a-repo/) and then
+tick off the items in the following syllabus as you complete
+them. (You can tick off items by replacing `[ ]` with `[x]` in
+`README.md`.)
+
+Happy learning!
 
 [Harish Narayanan](https://harishnarayanan.org/), 2017
 
