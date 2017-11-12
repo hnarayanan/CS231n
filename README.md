@@ -2,7 +2,7 @@
 
 This repository is an archive of the course [CS231n: Convolutional
 Neural Networks for Visual Recognition](http://cs231n.stanford.edu)
-(Winter 2016). If you’re even vaguely interested in this topic, you
+(Spring 2017). If you’re even vaguely interested in this topic, you
 should probably take this class. It is outstanding.
 
 To use this repository, [make a fork of
@@ -17,12 +17,13 @@ Happy learning!
 
 ## Course Syllabus
 
-- [ ] **Lecture 1:** Intro to computer vision, historical context
-   - [ ] [Video](https://youtu.be/NfnWJUyUJYU)
+- [ ] **Lecture 1:** Course Introduction (Computer vision overview,
+  Historical context, Course logistics)
+   - [ ] [Video](https://youtu.be/vT1JzLTH4G4)
    - [ ] [Slides](slides/lecture1.pdf)
-- [ ] **Lecture 2:** Image classification and the data-driven
-      approach; k-nearest neighbors; Linear classification I
-   - [ ] [Video](https://youtu.be/8inugqHkfvE)
+- [ ] **Lecture 2:** Image Classification (The data-driven approach,
+  K-nearest neighbors, Linear classification I)
+   - [ ] [Video](https://youtu.be/OoUX-nOEjG0)
    - [ ] [Slides](slides/lecture2.pdf)
    - [ ] [Python/NumPy tutorial](notes/python-numpy-tutorial.pdf)
    - [ ] [Image classification notes](notes/image-classification.pdf)
